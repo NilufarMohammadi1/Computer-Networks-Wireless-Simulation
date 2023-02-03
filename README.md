@@ -43,55 +43,13 @@ Senders in this wireless network will use UDP to send packets to the load balanc
 ## Results
 
     Metrics such as throughput and duration per flow is calculated and can be seen below.
-    <img src=“https://imgur.com/a/kcdOtlS”>
     
-    ************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 1.62937 Sec
-Throughput of Flow: 0.000505703 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 1.11318 Sec
-Throughput of Flow: 0.000740199 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 3.72455 Sec
-Throughput of Flow: 0.000335939 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 1.04829 Sec
-Throughput of Flow: 0.000786016 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 4.60836 Sec
-Throughput of Flow: 0.000271511 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 19.9987 Sec
-Throughput of Flow: 0.853232 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 19.9998 Sec
-Throughput of Flow: 0.89452 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 19.6515 Sec
-Throughput of Flow: 0.784581 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 19.9911 Sec
-Throughput of Flow: 0.783296 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 19.9966 Sec
-Throughput of Flow: 0.767027 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 16.9145 Sec
-Throughput of Flow: 0.00737929 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 17.714 Sec
-Throughput of Flow: 0.00653628 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 17.711 Sec
-Throughput of Flow: 0.00290168 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 17.1628 Sec
-Throughput of Flow: 0.00397944 Mbps
-************************** OUTPUT METRIC RESULT *****************************
-Duration of Flow: 16.1881 Sec
-Throughput of Flow: 0.0223018 Mbps
+    Output is shown in the below image from terminal.
+    
+   https://i.imgur.com/ofDKonn.png
 
 
+ 
 ## Project Developers
 
     Nilufar Mohammadi
