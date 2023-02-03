@@ -16,6 +16,7 @@ For linux, Mac OS and windows users, you can simply check out the ns-3 documenta
     3. Testing ns3
 
     (https://www.nsnam.org/docs/release/3.37/tutorial/html/quick-start.html#downloading-ns-3)
+    
 
 ## Project Description
 
@@ -42,7 +43,7 @@ Senders in this wireless network will use UDP to send packets to the load balanc
 
     Metrics such as throughput and duration per flow is calculated and can be seen below.
     
-    
+    ![metric result for CN project 2](https://imgur.com/a/kcdOtlS)
     
 ## Project Developers
 
