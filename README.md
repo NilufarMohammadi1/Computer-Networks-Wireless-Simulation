@@ -30,6 +30,20 @@ For linux, Mac OS and windows users, you can simply check out the ns-3 documenta
 
 Senders in this wireless network will use UDP to send packets to the load balancer. The load balancer uses TCP to send packets to the receivers. The load balancer will randomly choose one reciever and sends the recieved packet to the corresponding reciever using TCP.
 
+## How to Run?
+    
+   switch to the root directory of your ptoject and run the following commands. Remember that since we are using ns3 version 3.35, we will use the ./waf for running the project. In newer versions ./ns3 is used in most cases.
+   
+   1. ./waf configure
+   2. ./waf build
+   3. ./waf --run "WLAN"
+  
+## Results
+
+    Metrics such as throughput and duration per flow is calculated and can be seen below.
+    
+    
+    
 ## Project Developers
 
     Nilufar Mohammadi
